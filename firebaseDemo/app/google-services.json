@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032946069427",
+    "firebase_url": "https://pro1-f8c08.firebaseio.com",
+    "project_id": "pro1-f8c08",
+    "storage_bucket": "pro1-f8c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032946069427:android:21900eae5b1288cc",
+        "android_client_info": {
+          "package_name": "com.example.acer.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032946069427-4mhg7n24jg53o7il4n6q34rgmvm6p7p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.firebasedemo",
+            "certificate_hash": "ac905305aadc5f91d5f92bc7a92eb2c8bd1390b5"
+          }
+        },
+        {
+          "client_id": "1032946069427-3vcc2s209mbcnc6gm4r86fum4u7shj45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWm0jP_4Pa7aLEEdZ0Wl9G5FrQRuj2nFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032946069427-3vcc2s209mbcnc6gm4r86fum4u7shj45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

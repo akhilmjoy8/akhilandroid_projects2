@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "819412014687",
+    "firebase_url": "https://safedrive-70001.firebaseio.com",
+    "project_id": "safedrive-70001",
+    "storage_bucket": "safedrive-70001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819412014687:android:4a83e0b452843d1c",
+        "android_client_info": {
+          "package_name": "com.example.acer.mwv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819412014687-qlpsu4n0frj148thg3a98qin9hkc0rkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.mwv1",
+            "certificate_hash": "ac905305aadc5f91d5f92bc7a92eb2c8bd1390b5"
+          }
+        },
+        {
+          "client_id": "819412014687-vl7l5arij0kgf3c51b344smj03d3a5vu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "819412014687-vl7l5arij0kgf3c51b344smj03d3a5vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOqOaLh7YTowbG73UI-MwjcygVXPTCNLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819412014687-vl7l5arij0kgf3c51b344smj03d3a5vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

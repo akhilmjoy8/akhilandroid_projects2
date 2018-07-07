@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MWV1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyAMGhUG1s6Rv1u7HCiYBK4bnrBOnLyF9a8</string>
+</resources>

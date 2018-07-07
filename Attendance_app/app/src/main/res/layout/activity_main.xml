@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="358dp"
+        android:layout_height="183dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="164dp">
+
+        <Button
+            android:id="@+id/insertUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#37a8f7"
+            android:text="View User"
+            android:textColor="#fff"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="245dp" />
+
+        <Button
+            android:id="@+id/viewUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:background="#37a8f7"
+            android:text="Add User"
+            android:textColor="#fff"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="16dp" />
+
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>

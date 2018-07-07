@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NSample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="verify_msg">Enter OTP</string>
+    <string name="verify_msg1">We have sent you access code</string>
+    <string name="verify_msg2">Via SMS for Mobile Number Verification</string>
+
+</resources>

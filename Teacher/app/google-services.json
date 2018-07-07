@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821561557033",
+    "firebase_url": "https://attendance-d15d5.firebaseio.com",
+    "project_id": "attendance-d15d5",
+    "storage_bucket": "attendance-d15d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821561557033:android:53a4705fc795defc",
+        "android_client_info": {
+          "package_name": "com.example.acer.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821561557033-kljs9f8p2ns7avonbu9slm1q17heojsc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.teacher",
+            "certificate_hash": "ac905305aadc5f91d5f92bc7a92eb2c8bd1390b5"
+          }
+        },
+        {
+          "client_id": "821561557033-69pdrsg9mgu003l0tpgnuq7j46a4nqo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cMqDK7m06RrF8sPdEbLbCZRcT2Nhdzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821561557033-69pdrsg9mgu003l0tpgnuq7j46a4nqo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
